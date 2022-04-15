@@ -1,4 +1,17 @@
 caminhos do git:
 
-git config --global
 git clone
+Clonando um Repositório Existente
+Você clona um repositório com git clone [url]. 
+-------------------------------------------------------------
+git add
+Gravando Alterações
+Quando um repositório é inicialmente clonado, todos os seus arquivos estarão monitorados e inalterados porque você simplesmente os obteve e ainda não os editou. 
+Conforme você edita esses arquivos, o Git passa a vê-los como modificados, porque você os alterou desde seu último commit.
+ Você seleciona esses arquivos modificados e então faz o commit de todas as alterações selecionadas e o ciclo se repete.
+-------------------------------------------------------------
+git status
+Verificando o Status
+A principal ferramenta utilizada para determinar quais arquivos estão em quais estados
+-------------------------------------------------------------
+
