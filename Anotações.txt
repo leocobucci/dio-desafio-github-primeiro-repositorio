@@ -1,0 +1,4 @@
+caminhos do git:
+
+git config --global
+git clone
